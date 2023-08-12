@@ -18,7 +18,7 @@
           </div>
         </div>
       </section>
-    <section id="pendaftaran" class="">
+    <section id="" class="">
       <div class=" container mx-auto flex px-5 py-24 md:flex-row flex-col items-center justify-center">
       <div class="flex flex-row">
         <div class="lg:flex-row flex flex-col leading-none lg:text-8xl text-7xl">
@@ -63,16 +63,21 @@
       <section id="pendaftaran">
         <Pendaftaran />
       </section>
+       <section id="peraturan">
+        <Peraturan />
+      </section>
     </main>
   </div>
 </template>
 <script>
 import NavBar from "./components/NavBar.vue";
 import Pendaftaran from './components/pendaftaran.vue';
+import Peraturan from './components/peraturan.vue'
 export default {
   components: {
     NavBar,
-    Pendaftaran
+    Pendaftaran,
+    Peraturan
   },
 };
 </script>
