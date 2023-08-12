@@ -23,7 +23,7 @@
               <a href="#peraturan" class="border-b-4 border-transparent text-gray-300 hover:text-black font-medium cursor-pointer  hover:border-orange-100 mx-1.5 sm:mx-6">Peraturan</a>
             </li>
             <li>
-               <a href="#klasemen" class="border-b-4 border-transparent text-gray-300 hover:text-black font-medium cursor-pointer  hover:border-orange-100 mx-1.5 sm:mx-6">Klasemen</a>
+               <a href="#klasemen" class="border-b-4 border-transparent text-gray-300 hover:text-black font-medium cursor-pointer  hover:border-orange-100 mx-1.5 sm:mx-6">Klasxmen</a>
             </li>
          </ul>
         </div>

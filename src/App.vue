@@ -66,6 +66,9 @@
        <section id="peraturan">
         <Peraturan />
       </section>
+      <section id="klasemn">
+        <Klasmen />
+      </section>
     </main>
   </div>
 </template>
@@ -73,11 +76,13 @@
 import NavBar from "./components/NavBar.vue";
 import Pendaftaran from './components/pendaftaran.vue';
 import Peraturan from './components/peraturan.vue'
+import Klasmen from './components/klasmen.vue'
 export default {
   components: {
     NavBar,
     Pendaftaran,
-    Peraturan
+    Peraturan,
+    Klasmen
   },
 };
 </script>
