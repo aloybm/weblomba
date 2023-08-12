@@ -2,7 +2,7 @@
   <div id="app" class="relative">
     <NavBar />
     <main>
-      <section id="#beranda"   >
+      <section id="#beranda">
         <div class="xl:pl-36 container mx-auto flex px-5 py-24 md:flex-row flex-col items-center xl:pr-28">
             <div class=" lg:w-1/3 md:w-1/2 w-5/6 mb-10 md:mb-0">
               <img   src="../public/gambar1.png">
@@ -18,8 +18,8 @@
           </div>
         </div>
       </section>
-    <div class="flex">
-      <section id="pendaftaran" class="relative mb-8 ml-5 xl:top-96">
+    <section id="pendaftaran" class="relative mb-8 ml-5 ">
+      <div class="flex">
       <div class="flex">
         <div class="flex flex-row p-12 pl-5 justify-items-center">
           <h1 class="vertical-text font-bold leading-[103px] ">APA</h1>
@@ -58,8 +58,9 @@
           </div>
         </div>
       </div>
+      </div>
       </section>
-    </div>
+    
     <div class="flex">
       <section id="pembekalan" class="flex">
         <h1>
