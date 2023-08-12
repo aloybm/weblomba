@@ -60,24 +60,19 @@
       </div>
       </div>
       </section>
-    
-    <div class="flex">
-      <section id="pembekalan" class="flex">
-        <h1>
-    
-        </h1>
+      <section id="pendaftaran">
+        <Pendaftaran />
       </section>
-    </div>
     </main>
   </div>
 </template>
 <script>
 import NavBar from "./components/NavBar.vue";
-//import Pendaftaran from './components/pendaftaran.vue';
+import Pendaftaran from './components/pendaftaran.vue';
 export default {
   components: {
     NavBar,
-    //Pendaftaran
+    Pendaftaran
   },
 };
 </script>
@@ -92,6 +87,7 @@ body {
     width: 50px;
     font-weight: bold;
     word-wrap: break-word;
+    text-align: center;
     color: #F8BA71;
 }
 .font-b {
