@@ -32,7 +32,7 @@
         <h1 class="vertical-text font-bold w-2 text-5xl xl:text-[108px] leading-[103px] mt-40 ">ITU ?</h1>
           <div class="ml-32 mt-10 p-10">
           <h1
-            class=" relativefont-normal font-beranda w-auto xl:w-[353px] h-auto xl:h-[168px]  text-black text-5xl g:text-6xl  leading-[60px]"
+            class=" relative font-normal font-b w-auto xl:w-[353px] h-auto xl:h-[168px]  text-black text-5xl leading-[60px] g:text-6xl "
           >
             Lorem Ipsum dolor Sit amet
           </h1>
@@ -42,6 +42,9 @@
             Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa
             mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.
           </p>
+          </div>
+          <div class="flex">
+            <p class="font-number font-normal text-5xl text-[#EED4B5]">1</p>
           </div>
         </div>
         <div>
@@ -78,5 +81,11 @@ body {
            white-space: pre-wrap;
            /* color: (248, 186, 113, 0.55) */
            color : #F8BA71
+}
+.font-b{
+  font-family: 'Baloo';
+}
+.font-number{
+  font-family: 'Titan One';
 }
 </style>
