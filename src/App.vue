@@ -2,19 +2,26 @@
   <div id="app" class="relative">
     <NavBar />
     <main>
-    <div class="flex">
-      <section id="beranda" class="relative mb-8 mt-20 ml-20 xl:left-[800px] xl:top-60">
-      <h1 class=" font-normal font-beranda w-auto xl:w-[410px] h-auto xl:h-[120px] text-black text-5xl g:text-6xl leading-[60px]">Lorem Ipsum dolor Sit amet</h1>
-      <p class="text-black text-lg md:text-xl mt-4 md:mt-6 text-justify w-auto xl:w-[477px] font-medium">
-        Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.
-      </p>
-      <button class="bg-[#EED4B5] hover:bg-orange-200 text-white py-2 px-4 rounded-full text-xl mt-12 xl:w-[254px] xl:h-[64px] xl:text-[36px]">Daftar</button>
+      <section id="#beranda"   >
+        <div class="xl:pl-36 container mx-auto flex px-5 py-24 md:flex-row flex-col items-center xl:pr-28">
+            <div class=" lg:w-1/3 md:w-1/2 w-5/6 mb-10 md:mb-0">
+              <img   src="../public/gambar1.png">
+            </div>
+          <div class="lg:flex-grow md:w-1/2 lg:pl-40 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center ">       
+            <h1 class="font-normal font-beranda w-auto  text-black text-3xl sm:text-5xl">Lorem Ipsum dolor Sit amet</h1>
+            <p class="text-black text-lg sm:text-xl w-auto mt-4 md:mt-6 text-justify  leading-relaxed  font-medium">
+              Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.
+            </p>
+            <div class="flex justify-center">
+              <button class="bg-[#EED4B5] hover:bg-orange-200 text-white py-2 px-4 rounded-full text-xl mt-12 xl:w-[254px] xl:h-[64px] xl:text-[36px]">Daftar</button>
+            </div>
+          </div>
+        </div>
       </section>
-    </div>
     <div class="flex">
       <section id="pendaftaran" class="relative mb-8 ml-5 xl:top-96">
       <div class="flex">
-        <div class="flex flex-row p-12 pl-5">
+        <div class="flex flex-row p-12 pl-5 justify-items-center">
           <h1 class="vertical-text font-bold leading-[103px] ">APA</h1>
           <h1 class="vertical-text font-bold mt-28 leading-[103px] pl-20 ">ITU ?</h1>
         </div>
@@ -54,7 +61,11 @@
       </section>
     </div>
     <div class="flex">
-      <section id="pembekalan" class="relative"></section>
+      <section id="pembekalan" class="flex">
+        <h1>
+    
+        </h1>
+      </section>
     </div>
     </main>
   </div>
