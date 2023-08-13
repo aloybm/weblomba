@@ -1,6 +1,6 @@
 <template>
     <img src="../assets/end.svg" class="absolute z-0 w-full" alt="">
-    <div class="flex md:flex-row justify-between w-full container mx-auto px-5 py-24">
+    <div class="flex md:flex-row justify-between w-full container mx-auto px-5 pb-24 pt-[768px] relative z-10">
         <img src="../../public/test4.png" alt="">
         <div>
             <h3>Lorem Ipsum dolor Sit amet</h3>
