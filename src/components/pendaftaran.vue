@@ -15,13 +15,13 @@
           <img src="/public/test.png">
         </div>
       </div>
-
       <div class="lg:flex-row flex flex-col leading-none lg:text-8xl text-7xl">
         <h1 class="vertical-text font-bold">PENDAF</h1>
         <h1 class="vertical-text font-bold mt-20 xl:mt-40 pl-auto xl:pl-20">TARAN</h1>
       </div>
     </div>
   </div>
+  <img src="../assets/pendaftaran.svg" class="absolute" alt="">
 </template>
 
 <script>

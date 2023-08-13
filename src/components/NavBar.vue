@@ -12,7 +12,7 @@
           </button>
         </div>
         <div class="hidden w-full md:block md:w-auto" id="navbar-default">
-          <ul class="font-medium flex flex-col p-4 md:p-0  md:flex-row md:space-x-8 md:mt-0 md:border-1 md:bg-white">
+          <ul class="font-medium flex flex-col p-4 md:p-0  md:flex-row md:space-x-8 md:mt-0 md:border-1 md:bg-none">
             <li>
               <a href="#beranda" class="text-black font-medium cursor-pointer border-b-4 border-orange-100 mx-1.5 sm:mx-6">Beranda</a>
             </li>

@@ -22,6 +22,7 @@
       </div>
     </div>
   </div>
+  <img src="../assets/klasmen.svg" class="absolute right-0" alt="">
 </template>
 
 <script>
