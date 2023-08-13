@@ -1,37 +1,42 @@
 <template>
-  <img src="../src/assets/start2.svg" class="absolute z-0 w-full" alt="">
-  <div id="app" class="relative">
-    <div class="z-10">
-      <NavBar />
-      <main>
-        <section id="beranda">
-          <Beranda />
-        </section>
-        <section id="apa-itu" class="">
-          <Apaitu />
-        </section>
-        <section id="pendaftaran">
-          <Pendaftaran />
-        </section>
-        <section id="peraturan">
-          <Peraturan />
-        </section>
-        <section id="klasemn">
-          <Klasmen />
-        </section>
-      </main>
+  <div class="relative">
+    <img src="../src/assets/start2.svg" class="absolute z-0 w-full" alt="">
+    <div id="app" class="relative z-10">
+      <div class="">
+        <NavBar />
+        <main>
+          <section id="beranda">
+            <Beranda />
+          </section>
+          <section id="apa-itu">
+            <Apaitu />
+          </section>
+          <section id="pendaftaran">
+            <Pendaftaran />
+          </section>
+          <section id="peraturan">
+            <Peraturan />
+          </section>
+          <section id="klasemn">
+            <Klasmen />
+          </section>
+          <section id="footer">
+            <Footer />
+          </section>
+        </main>
+      </div>
     </div>
   </div>
-  <img src="../src/assets/end.svg" class="w-full" alt="">
 </template>
 
 <script>
 import NavBar from "./components/NavBar.vue";
-import Pendaftaran from './components/pendaftaran.vue';
-import Peraturan from './components/peraturan.vue'
-import Klasmen from './components/klasmen.vue'
-import Apaitu from './components/apaitu.vue'
-import Beranda from './components/beranda.vue'
+import Pendaftaran from './components/Pendaftaran.vue';
+import Peraturan from './components/Peraturan.vue'
+import Klasmen from './components/Klasmen.vue'
+import Apaitu from './components/Apaitu.vue'
+import Beranda from './components/Beranda.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   components: {
@@ -40,7 +45,8 @@ export default {
     Peraturan,
     Klasmen,
     Apaitu,
-    Beranda
+    Beranda,
+    Footer
   },
 };
 </script>
