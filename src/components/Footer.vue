@@ -9,7 +9,7 @@
                 <div class="h-2 justify-end w-1/2 bg-gradient-to-l from-transparent to-[#EED4B5]"></div>
             </div>
             <ul>
-                <li><p> <a href="http://phonic.ai"> http://phonic.ai </a> </p></li>
+                <li><p> <a href="http://phonic.ai"> phonic.ai </a> </p></li>
                 <li><p></p></li>
                 <li><p></p></li>
             </ul>
