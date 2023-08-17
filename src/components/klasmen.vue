@@ -6,7 +6,7 @@
     <div class="xl:pl-36 container mx-auto flex px-5 py-24 md:flex-row flex-col items-center xl:pr-28">
       <div class="flex flex-col sm:flex-row p-5 space-y-10 sm:space-y-0 sm:space-x-10">
         <div class="lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 m-20 items-center justify-center">
-          <img src="/public/test3.png">
+          <img src="../assets/klasmenisi.svg" class="self-center left-20 item" alt="">
         </div>
       </div>
 

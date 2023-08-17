@@ -11,13 +11,19 @@
           <section id="apa-itu">
             <Apaitu />
           </section>
+          <section id="penilaian">
+            <Penilaian />
+          </section>
           <section id="pendaftaran">
             <Pendaftaran />
           </section>
           <section id="peraturan">
             <Peraturan />
           </section>
-          <section id="klasemn">
+          <section id="kriteria">
+            <Kriteria />
+          </section>
+          <section id="klasmen">
             <Klasmen />
           </section>
           <section id="footer">
@@ -37,6 +43,9 @@ import Klasmen from './components/Klasmen.vue'
 import Apaitu from './components/Apaitu.vue'
 import Beranda from './components/Beranda.vue'
 import Footer from './components/Footer.vue'
+import Penilaian from './components/penilaian.vue'
+import Kriteria from "./components/kriteria.vue"
+
 
 export default {
   components: {
@@ -46,7 +55,9 @@ export default {
     Klasmen,
     Apaitu,
     Beranda,
-    Footer
+    Footer,
+    Penilaian,
+    Kriteria
   },
 };
 </script>
@@ -63,6 +74,11 @@ body {
     font-weight: bold;
     word-wrap: break-word;
     text-align: center;
+    color: #F8BA71;
+}
+.horizontal-text{
+    
+    font-weight: bold;
     color: #F8BA71;
 }
 .font-b {

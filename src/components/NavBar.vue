@@ -1,9 +1,12 @@
 <template>
 
   <header class="mx-auto pt-[70px]">
-    <nav>
-      <div class="max-w-screen-xl flex flex-wrap items-center justify-end text-lg mx-auto p-4">
-        <div class="flex md:order-2">
+    <nav >
+  <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+    
+         <img src="../assets/logo.svg" class="self-center  left-20" alt="">
+  
+        <div class="flex md:order-2 justify-end">
           <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm  md:hidden" aria-controls="navbar-default" aria-expanded="false">
             <span class="sr-only">Open main menu</span>
             <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
@@ -16,18 +19,22 @@
             <li>
               <a href="#beranda" class="text-black font-medium cursor-pointer border-b-4 border-orange-100 mx-1.5 sm:mx-6">Beranda</a>
             </li>
-            <li>
-              <a href="#pendaftaran" class="border-b-4 border-transparent text-gray-300 hover:text-black hover:font-mediun cursor-pointer  hover:border-orange-100 mx-1.5 sm:mx-6">Pendaftaran</a>
+             <li>
+              <a href="#penilaian" class="border-b-4 border-transparent text-white hover:text-black hover:font-mediun cursor-pointer  hover:border-orange-100 mx-1.5 sm:mx-6">Penilaian</a>
             </li>
             <li>
-              <a href="#peraturan" class="border-b-4 border-transparent text-gray-300 hover:text-black font-medium cursor-pointer  hover:border-orange-100 mx-1.5 sm:mx-6">Peraturan</a>
+              <a href="#pendaftaran" class="border-b-4 border-transparent text-white hover:text-black hover:font-mediun cursor-pointer  hover:border-orange-100 mx-1.5 sm:mx-6">Pendaftaran</a>
             </li>
             <li>
-               <a href="#klasmen" class="border-b-4 border-transparent text-gray-300 hover:text-black font-medium cursor-pointer  hover:border-orange-100 mx-1.5 sm:mx-6">Klasmen</a>
+              <a href="#peraturan" class="border-b-4 border-transparent text-white hover:text-black font-medium cursor-pointer  hover:border-orange-100 mx-1.5 sm:mx-6">Peraturan</a>
+            </li>
+            <li>
+               <a href="#klasmen" class="border-b-4 border-transparent text-white hover:text-black font-medium cursor-pointer  hover:border-orange-100 mx-1.5 sm:mx-6">Klasmen</a>
             </li>
          </ul>
         </div>
-      </div>
+  </div>
+      
     </nav>
   </header>
 </template>

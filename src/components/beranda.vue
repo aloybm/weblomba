@@ -4,9 +4,10 @@
                 <img src="../../public/gambar1.png">
             </div>
         <div class="lg:flex-grow md:w-1/2 lg:pl-40 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center ">       
-            <h1 class="font-normal font-beranda w-auto  text-black text-3xl sm:text-5xl">Lorem Ipsum dolor Sit amet</h1>
+            <h1 class="font-normal font-beranda w-auto  text-black text-3xl sm:text-5xl">Selamat Datang di Lomba MBACA</h1>
             <p class="text-black text-lg sm:text-xl w-auto mt-4 md:mt-6 text-justify leading-10 font-medium">
-            Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.
+            Yuk ikut lomba MBACA(Meniti Budi Anak Cinta Aksara) untuk membantu pembuatan korpus bahasa Indonesia!
+            Apa itu MBACA((Meniti Budi Anak Cinta Aksara)?
             </p>
             <div class="flex justify-center">
                 <button class="bg-[#EED4B5] hover:bg-orange-200 text-white py-2 px-4 rounded-full text-xl mt-12 xl:w-[254px] xl:h-[64px] xl:text-[36px]">Daftar</button>
