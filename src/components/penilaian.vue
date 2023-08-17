@@ -4,35 +4,35 @@
                 <h1 class="vertical-text font-bold">PENIL</h1>
                 <h1 class="vertical-text  font-bold mt-20 xl:mt-28 pl-auto xl:pl-20">AIAN</h1>
             </div> 
-            <section class="flex flex-col  xl:ml-40 ml-10 ">
-                <div class="flex ">
-                <p class="font-number font-normal text-6xl xl:ml-20 xl:mt-10 text-[#EED4B5]">1</p>
-                    <div class="flex container pl-14  p-8 text-2xl leading-[36px] xl:w-[470px] xl:pr-0 mr-0 text-justify">
-                        <p>
+            <section class="flex flex-col xl:ml-40 ml-10 space-y-10">
+                <div class="flex justify-between">
+                    <p class="font-number font-normal lg:mt-0 text-6xl xl:top-0 text-[#EED4B5] align-top">1</p>
+                    <div class="flex container text-2xl xl:pr-0 mr-0 text-justify pl-10">
+                        <p class="lg:mt-0">
                         Sekolah yang mengirimkan peserta paling akan mendapatkan 3 kuota hadiah
                         </p>
                     </div>
                 </div>
-                <div class="flex">   
-                    <p class="font-number font-normal text-6xl xl:ml-20  text-[#EED4B5]">2</p>
-                    <div class="flex container pl-12 text-2xl leading-[36px] xl:w-[470px] xl:pr-0 mr-0 text-justify">
-                        <p>
+                <div class="flex justify-between">   
+                    <p class="font-number font-normal lg:mt-0 text-6xl xl:top-0 text-[#EED4B5]">2</p>
+                    <div class="flex container text-2xl xl:pr-0 mr-0 text-justify pl-10">
+                        <p class="lg:mt-0">
                         Sekolah yang mengirimkan peserta paling banyak kedua akan mendapatkan 2 kuota hadiah
                         </p>
                     </div>
                 </div>
-                <div class="flex ">
-                    <p class="font-number font-normal text-6xl xl:ml-20 xl:mt-10 text-[#EED4B5]">3</p>
-                    <div class="flex container pl-12 p-9 text-2xl leading-[36px] xl:w-[470px] xl:pr-0 mr-0 text-justify">
-                        <p>
+                <div class="flex justify-between">
+                    <p class="font-number font-normal lg:mt-0 text-6xl xl:top-0 text-[#EED4B5]">3</p>
+                    <div class="flex container text-2xl xl:pr-0 mr-0 text-justify pl-10">
+                        <p class="lg:mt-0">
                         Pemenang akan diacak sesuai dengan kuota hadiah yang diberikan
                         </p>
                     </div>
                 </div>
-                    <div class="flex">   
-                    <p class="font-number font-normal text-6xl xl:ml-20  text-[#EED4B5]">4</p>
-                    <div class="flex container pl-12 text-2xl leading-[36px] xl:w-[470px] xl:pr-0 mr-0 text-justify">
-                        <p>
+                    <div class="flex justify-between">   
+                    <p class="font-number font-normal lg:mt-0 text-6xl xl:top-0 text-[#EED4B5]">4</p>
+                    <div class="flex container text-2xl xl:pr-0 mr-0 text-justify pl-10">
+                        <p class="lg:mt-0">
                         Lorem ipsum dolor sit amet consectetur adipiscing
                         </p>
                     </div>

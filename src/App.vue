@@ -11,10 +11,11 @@
           <section id="apa-itu">
             <Apaitu />
           </section>
-          <section id="penilaian">
+          <section id="penilaian" class="pb-48">
             <Penilaian />
           </section>
-          <section id="pendaftaran">
+          <img src="./assets/lebah.svg" class="absolute z-0 right-1/2" alt="">
+          <section id="pendaftaran" class="pt-96">
             <Pendaftaran />
           </section>
           <section id="peraturan">

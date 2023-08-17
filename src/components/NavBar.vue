@@ -4,17 +4,21 @@
     <nav >
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     
-         <img src="../assets/logo.svg" class="self-center  left-20" alt="">
-  
-        <div class="flex md:order-2 justify-end">
+    <img src="../assets/logo.svg" class="self-center mx-auto left-20 hidden lg:inline" alt="">
+        <div class="flex flex-row mx-auto lg:hidden gap-16">
+          <img src="../assets/logo.svg" class="self-center mx-auto left-20" alt="">
+          <h1 class="font-beranda text-9xl my-auto">MBACA.</h1>
+        </div>
+
+        <!-- <div class="flex md:order-2 justify-end">
           <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm  md:hidden" aria-controls="navbar-default" aria-expanded="false">
             <span class="sr-only">Open main menu</span>
             <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
             </svg>
           </button>
-        </div>
-        <div class="hidden w-full md:block md:w-auto" id="navbar-default">
+        </div> -->
+        <div class="hidden w-full lg:block md:w-auto" id="navbar-default">
           <ul class="font-medium flex flex-col p-4 md:p-0  md:flex-row md:space-x-8 md:mt-0 md:border-1 md:bg-none">
             <li>
               <a href="#beranda" class="text-black font-medium cursor-pointer border-b-4 border-orange-100 mx-1.5 sm:mx-6">Beranda</a>
