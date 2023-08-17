@@ -1,7 +1,7 @@
 <template>
     <img src="../assets/end.svg" class="absolute z-0 w-full hidden lg:inline object-cover" alt="">
     <div class="flex flex-col items-start space-y-40 lg:flex-row lg:justify-between lg:w-full container mx-auto px-20 lg:px-5 lg:pb-24 pt-[768px] relative z-10">
-        <img src="../assets/logo.svg" class="pl-16 w-1/4 h-full hidden lg:inline" alt="">
+        <img src="../assets/logo.svg" class="pl-16 md:pl-0 sm:w-1/4 h-full w-1/2 lg:inline mt-40" alt="">
         <div class="top-0">
             <h3>Lorem Ipsum dolor Sit amet</h3>
             <div class="flex flex-row">
