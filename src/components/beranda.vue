@@ -10,7 +10,7 @@
             Apa itu MBACA(Meniti Budi Anak Cinta Aksara)?
             </p>
             <div class="flex justify-center">
-                <a href="https://survey.phonic.ai/64d2501d7ae5d13742da44c1">
+                <a href="https://survey.phonic.ai/64d2501d7ae5d13742da44c1" target="_blank">
                     <button class="bg-[#EED4B5] hover:bg-orange-200 text-white py-2 px-4 rounded-full text-xl mt-12 xl:w-[254px] xl:h-[64px] xl:text-[36px]">Daftar</button>
                 </a>            
             </div>

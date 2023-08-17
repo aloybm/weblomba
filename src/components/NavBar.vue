@@ -4,10 +4,10 @@
     <nav >
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     
-    <img src="../assets/logo.svg" class="self-center mx-auto left-20 hidden lg:inline" alt="">
+    <img src="../assets/logo.svg" class="self-center left-20 hidden lg:inline" alt="">
         <div class="flex flex-row mx-auto lg:hidden gap-16">
           <img src="../assets/logo.svg" class="self-center mx-auto left-20" alt="">
-          <h1 class="font-beranda text-9xl my-auto">MBACA.</h1>
+          <h1 class="font-beranda text-4xl lg:text-8xl my-auto">MBACA.</h1>
         </div>
 
         <!-- <div class="flex md:order-2 justify-end">
