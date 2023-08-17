@@ -10,7 +10,9 @@
             Apa itu MBACA(Meniti Budi Anak Cinta Aksara)?
             </p>
             <div class="flex justify-center">
-                <button class="bg-[#EED4B5] hover:bg-orange-200 text-white py-2 px-4 rounded-full text-xl mt-12 xl:w-[254px] xl:h-[64px] xl:text-[36px]">Daftar</button>
+                <a href="">
+                    <button class="bg-[#EED4B5] hover:bg-orange-200 text-white py-2 px-4 rounded-full text-xl mt-12 xl:w-[254px] xl:h-[64px] xl:text-[36px]">Daftar</button>
+                </a>            
             </div>
         </div>
     </div>

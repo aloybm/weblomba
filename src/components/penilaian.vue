@@ -33,7 +33,7 @@
                     <p class="font-number font-normal lg:mt-0 text-6xl xl:top-0 text-[#EED4B5]">4</p>
                     <div class="flex container text-2xl xl:pr-0 mr-0 text-justify pl-10">
                         <p class="lg:mt-0">
-                        Lorem ipsum dolor sit amet consectetur adipiscing
+                        Pemenang akan diacak sesuai dengan kuota hadiah yang diberikan
                         </p>
                     </div>
                 </div>
