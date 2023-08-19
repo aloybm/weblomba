@@ -9,9 +9,9 @@
           <img src="../assets/klasmen.png" class="self-center left-20 item h-full w-full" alt="">
         </div> -->
         <img src="../assets/klasmen.png"  class="w-11/12 mx-auto" alt="">
-        <div class="lg:flex-row lg:flex flex-col leading-none lg:text-8xl text-7xl hidden">
+        <div class="xl:flex-row xl:flex flex-col leading-none xl:text-8xl text-5xl hidden">
           <h1 class="vertical-text font-bold">KLAS</h1>
-          <h1 class="vertical-text font-bold mt-20 xl:mt-40 pl-auto lg:pl-10">MEN</h1>
+          <h1 class="vertical-text font-bold mt-20 xl:mt-40 pl-auto xl:pl-6">MEN</h1>
         </div>
       </div>
 

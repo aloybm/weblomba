@@ -15,7 +15,7 @@
             <Penilaian />
           </section>
           <img src="./assets/lebah.svg" class="absolute z-0 right-1/2" alt="">
-          <section id="pendaftaran" class="pt-96">
+          <section id="pendaftaran" class="pt-72">
             <Pendaftaran />
           </section>
           <section id="peraturan">

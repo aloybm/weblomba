@@ -10,23 +10,23 @@
         <h1 class="vertical-text font-bold mt-20 xl:mt-40 pl-auto xl:pl-20">TURAN</h1>
       </div>
       <section class="flex items-center justify-center">
-      <div class="hidden lg:flex flex-col sm:flex-col p-5 sm:space-x-0 sm:space-y-10 w-1/2">
-        <div class="lg:w-10/12 md:w-1/2 w-5/6 mb-10 md:mb-0">
+      <div class="hidden lg:flex flex-col sm:flex-col p-5 sm:space-x-0 sm:space-y-10 w-3/5">
+        <div class="lg:w-10/12 w-5/6 mb-10 md:mb-0">
           <img src="../assets/peraturan/1.svg" class="" alt="">
         </div>
-        <div class="lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 pl-20">
+        <div class="lg:w-full w-5/6 mb-10 md:mb-0 pl-20">
           <img src="../assets/peraturan/2.svg" class="" alt="">
         </div>
-        <div class="lg:w-10/12 md:w-1/2 w-5/6 mb-10 md:mb-0">
+        <div class="lg:w-10/12 w-5/6 mb-10 md:mb-0">
           <img src="../assets/peraturan/3.svg" class="" alt="">
         </div>
-        <div class="lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 pl-20">
+        <div class="lg:w-full w-5/6 mb-10 md:mb-0 pl-20">
           <img src="../assets/peraturan/4.svg" class="" alt=""> 
         </div>
-        <div class="lg:w-10/12 md:w-1/2 w-5/6 mb-10 md:mb-0">
+        <div class="lg:w-10/12 w-5/6 mb-10 md:mb-0">
           <img src="../assets/peraturan/5.svg" class="" alt="">
         </div>
-        <div class="lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 pl-20">
+        <div class="lg:w-full w-5/6 mb-10 md:mb-0 pl-20">
           <img src="../assets/peraturan/6.svg" class="" alt=""> 
         </div>
       </div>

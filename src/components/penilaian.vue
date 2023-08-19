@@ -1,5 +1,5 @@
 <template>
-    <div class="xl:pl-36 container mx-auto flex px-5 pb-24 pt-56 md:flex-row flex-col items-center xl:pr-28 w-11/12">
+    <div class="xl:pl-36 container mx-auto flex px-5 pb-24 pt-44 md:flex-row flex-col items-center xl:pr-28 w-11/12">
               <div class="lg:flex-row flex flex-col leading-none lg:text-8xl text-7xl">
                 <h1 class="vertical-text font-bold">PENIL</h1>
                 <h1 class="vertical-text  font-bold mt-20 xl:mt-28 pl-auto xl:pl-20">AIAN</h1>
